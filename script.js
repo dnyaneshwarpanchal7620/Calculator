@@ -15,17 +15,4 @@ function clear(){
 
 
 
-// let btn = document.querySelectorAll("button")
-
-// btn.addEventListener("click",()=>{
-//     document.getElementById("E").innerHTML +=e
-// })
-
-// function xyz(e){
-//     let btn = document.getElementById("display")
-//     btn.addEventListener("click",()=>{
-//         document.getElementById("E").innerHTML +=e
-    
-// })
-// }
 
